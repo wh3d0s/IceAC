@@ -1,5 +1,5 @@
 <div align="center">
- <h1>GrimAC</h1>
+ <h1>IceAC</h1>
 
  <div>
   <a href="https://github.com/GrimAnticheat/Grim/actions/workflows/gradle-publish.yml">
