@@ -13,39 +13,20 @@ A premium version is planned, which will offer additional subscription-based pai
 
 ## Requirements & Installation
 
-- Java 17 or higher. *For more details, see [Updating-to-Java-17](https://github.com/GrimAnticheat/Grim/wiki/Updating-to-Java-17).*
-- A Spigot, Paper, Folia, or Fabric server environment. *For more details, see [Supported-environments](https://github.com/GrimAnticheat/Grim/wiki/Supported-environments).*
+- Java 17 or higher.
+- A Spigot, Paper, Folia, or Fabric server environment.
 
 If you use a proxy such as Velocity or Bungeecord:
-- If you use Geyser, Floodgate must be installed on the backend server (where Grim is) so Grim can access the Floodgate API.
+- If you use Geyser, Floodgate must be installed on the backend server (where Grim is) so IceAC can access the Floodgate API.
 - If you use ViaVersion, it must be installed on the backend server (where Grim is) ONLY.
   Grim does not support having ViaVersion installed on the proxy, even if it is also installed on the backend.
-
-## Resources
-
-- For documentation and examples visit the [Wiki](https://github.com/GrimAnticheat/Grim/wiki).
-- For answers to commonly asked questions visit the [FAQ](https://github.com/GrimAnticheat/Grim/wiki/FAQ).
-- For community support and project discussion join our [Discord](https://discord.grim.ac).
 
 ## Pull Requests
 
 See [Contributing](CONTRIBUTING.md) for more information about contributing and what our guidelines
 are.
 
-## Developer Plugin API
-
-Grim's plugin API allows you to integrate Grim into your own plugins. Visit
-the [plugin API repository](https://github.com/GrimAnticheat/GrimAPI) for the source code and more
-information.
-
-## Compiling From Source
-
-1. `git clone https://github.com/wh3d0s/IceAC`
-2. `cd IceAC`
-3. `./gradlew build`
-4. The final jars will compile into the `<platform>/build/libs` folders
-
-## Grim Supremacy
+## IceAC Supremacy
 
 What makes Grim stand out against other anticheats?
 
